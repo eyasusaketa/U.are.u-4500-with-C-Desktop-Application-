@@ -1,0 +1,12 @@
+F:\GadiProject\DesktopApp\FPBPDMS\FPBPDMSYSTEM\FPBPDMSYSTEM\bin\Debug\FPBPDMSYSTEM.exe.config
+F:\GadiProject\DesktopApp\FPBPDMS\FPBPDMSYSTEM\FPBPDMSYSTEM\bin\Debug\FPBPDMSYSTEM.exe
+F:\GadiProject\DesktopApp\FPBPDMS\FPBPDMSYSTEM\FPBPDMSYSTEM\bin\Debug\FPBPDMSYSTEM.pdb
+F:\GadiProject\DesktopApp\FPBPDMS\FPBPDMSYSTEM\FPBPDMSYSTEM\obj\Debug\FPBPDMSYSTEM.csproj.AssemblyReference.cache
+F:\GadiProject\DesktopApp\FPBPDMS\FPBPDMSYSTEM\FPBPDMSYSTEM\obj\Debug\FPBPDMSYSTEM.csproj.SuggestedBindingRedirects.cache
+F:\GadiProject\DesktopApp\FPBPDMS\FPBPDMSYSTEM\FPBPDMSYSTEM\obj\Debug\FPBPDMSYSTEM.Form1.resources
+F:\GadiProject\DesktopApp\FPBPDMS\FPBPDMSYSTEM\FPBPDMSYSTEM\obj\Debug\FPBPDMSYSTEM.Properties.Resources.resources
+F:\GadiProject\DesktopApp\FPBPDMS\FPBPDMSYSTEM\FPBPDMSYSTEM\obj\Debug\FPBPDMSYSTEM.csproj.GenerateResource.cache
+F:\GadiProject\DesktopApp\FPBPDMS\FPBPDMSYSTEM\FPBPDMSYSTEM\obj\Debug\FPBPDMSYSTEM.csproj.CoreCompileInputs.cache
+F:\GadiProject\DesktopApp\FPBPDMS\FPBPDMSYSTEM\FPBPDMSYSTEM\obj\Debug\FPBPDMSYSTEM.exe
+F:\GadiProject\DesktopApp\FPBPDMS\FPBPDMSYSTEM\FPBPDMSYSTEM\obj\Debug\FPBPDMSYSTEM.pdb
+F:\GadiProject\DesktopApp\FPBPDMS\FPBPDMSYSTEM\FPBPDMSYSTEM\obj\Debug\FPBPDMSYSTEM.loginpage.resources
